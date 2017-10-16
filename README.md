@@ -1,1 +1,1 @@
-# Basics-of-Pandas-Numpy
+# Basics-of-Pandas-and-Numpy
